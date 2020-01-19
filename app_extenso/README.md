@@ -28,7 +28,7 @@ Seguem abaixo os requisitos para rodar a aplicação e junto os comandos sugerid
 É possível alterar a porta onde será gerado o servidor local (padrão:8000).
 
 * -h				--Ajuda
-* -p 5000			--Numeração da porta para gerar servidor
+* -p				--Numeração da porta para gerar servidor
 
 ## Instruções de uso
 
